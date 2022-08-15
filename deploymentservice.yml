@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: nagamlak/virtual-folio:1.1
+        image: thetips4you/nodeapp:latest
         ports:
         - containerPort: 3000
         
